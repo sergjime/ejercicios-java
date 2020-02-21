@@ -1,8 +1,3 @@
-# Nanakyu
-
-Es un proyecto para iniciación en la programación con java. Hay una serie de ejercicios para desarrollar.
-
-Para poder comprobar la validez de los ejercicios es necesario ir activando los correspondientes tests, y lanzar la ejecución de los tests de maven. Por defecto ningún test está activado, según se vayan completando las katas se deben ir activando y ampliando los tests.
 
 ## Katas
 
